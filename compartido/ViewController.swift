@@ -24,6 +24,8 @@ class ViewController: UIViewController {
         //sin info
     }
     
-    
+    func testRest() {
+        // Aquí vamos a colocar el código para consumir un servicio
+    }
 }
 
